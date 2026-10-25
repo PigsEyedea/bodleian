@@ -1,4 +1,4 @@
-Bod is short Bodleian, a library of some import among certain nerds. This library generates worlds.
+Bod is short for Bodleian, a library of some import among certain nerds. This library generates worlds.
 
 Friendly functions for tile map generation via following algos:
 BSP

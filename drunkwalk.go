@@ -156,7 +156,8 @@ func DoDrunkWalk(width, height, momentum int, targetPercent float64) [][]string 
 
 	var matrix [][]string
 
-	totalTiles = height * width
+	totalTiles = (height - 1) * width
+
 	filledTiles = 1
 	targetFilledTiles = int(float64(totalTiles) * targetPercent)
 

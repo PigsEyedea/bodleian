@@ -5,7 +5,7 @@ BSP
 
 With the following on the way:
 Drunkard's walk
-Celluar Automata
+Cellular Automata
 
 Simple usage:
 //get a bsp map
